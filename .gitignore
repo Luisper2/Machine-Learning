@@ -1,0 +1,10 @@
+*.toc
+*.tex
+*.out
+*.log
+*.ist
+*.glo
+*.fls
+*.fdb_latexmk
+*.aux
+*.acn
